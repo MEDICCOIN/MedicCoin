@@ -20,3 +20,7 @@ Block Halving : 19,999 Block
 Minimum Stake Age : 1 Hour
 
 Coin Maturity : 11 Block
+
+RPC Port: 2117
+
+Network Port: 2118
